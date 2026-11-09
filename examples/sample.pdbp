@@ -1,0 +1,5 @@
+PDBP/1
+id:LONG|name:STRING|amount:DOUBLE
+1|Иван|10.0
+2|Анна|20.5
+3|Текст\|разделитель|30.0
